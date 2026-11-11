@@ -1,8 +1,0 @@
-{
-  "name": "Asisten Tugas & Produktivitas AI",
-  "description": "Asisten AI ahli manajemen tugas dan produktivitas dalam Bahasa Indonesia untuk mencatat, mengorganisasi, memprioritaskan, dan memantau To-Do List dengan rapi.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
